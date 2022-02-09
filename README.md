@@ -1,1 +1,1 @@
-# Opinion-mining-of-Student-feedback
+# Opinion-mining-from-Student-feedback
